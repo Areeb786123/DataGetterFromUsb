@@ -1,2 +1,3 @@
 # DataGetterFromUsb
-![MacBook Air - 1](https://github.com/Areeb786123/DataGetterFromUsb/assets/56149022/7f24bee8-d3e5-48af-a133-c51111fe0f5b)
+
+![Screenshot 2023-05-25 at 3 08 31 PM](https://github.com/Areeb786123/DataGetterFromUsb/assets/56149022/be35a1cb-6721-4c04-af44-271c442accb5)
